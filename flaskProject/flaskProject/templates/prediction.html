@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Prediction Stage</title>
+    <script>
+        function updateSliderValue(value) {
+            document.getElementById("slider-value").textContent = value;
+        }
+
+        function updateAgeValue(value) {
+            document.getElementById("age-value").textContent = value;
+        }
+    </script>
+    <link rel="stylesheet" href="../static/common.css">
+    <link rel="stylesheet" href="../static/predict.css">
+</head>
+<body>
+{% include 'common_nav.html' %}
+<h1></h1>
+<form action="/get_result" method="POST">
+    <label for="chemotherapy">Have you had chemotherapy before?</label>
+    <input type="checkbox" name="chemotherapy" value="yes"/>
+    <br/>
+    <br/>
+    <label for="nhg">Neoplasm Histologic Grade:</label>
+    <select name="nhg">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+    </select>
+    <br/>
+    <br/>
+    <label for="hormone therapy">Have you had hormone therapy before?</label>
+    <input type="checkbox" name="hormone_therapy" value="yes"/>
+    <br/>
+    <br/>
+    <label for="positive lymph nodes"
+    >How many of patient's lymph nodes examined positive?</label
+    >
+    <div class="range-container">
+        <input
+                type="range"
+                name="positive_lymph_nodes"
+                min="0"
+                max="50"
+                value="20"
+                oninput="updateSliderValue(this.value)"
+                class="positive-lymph-nodes"
+        />
+        <span id="slider-value">20</span>
+    </div>
+
+    <br/><br/>
+    <label for="nottingham-index"
+    >Input value for Nottingham Prognostic Index:</label
+    >
+    <input
+            type="number"
+            name="nottingham-index"
+            step="0.001"
+            min="0"
+            max="100"
+            value="0"
+    />
+    <br/><br/>
+    <label for="radiotherapy">Have you had radiotherapy before?</label>
+    <input type="checkbox" name="radiotherapy" value="yes"/>
+    <br/>
+    <br/>
+    <label for="tumor_size">Input value for Tumor Size:</label>
+    <input
+            type="number"
+            name="tumor_size"
+            step="0.01"
+            min="0"
+            max="280"
+            value="0"
+    />
+    <br/><br/>
+    <label>Which breast surgery did you have?</label><br/><br/>
+    <input
+            type="radio"
+            id="mastectomy"
+            name="breast-surgery"
+            value="mastectomy"
+            required
+    />
+    <label for="mastectomy">Mastectomy</label><br/>
+    <input
+            type="radio"
+            id="breast-conserving"
+            name="breast-surgery"
+            value="breast-conserving"
+            required
+    />
+    <label for="breast-conserving">Breast Conserving</label><br/>
+    <br/>
+    <label>Which cancer type did you have?</label><br/><br/>
+    <input
+            type="radio"
+            id="ductal"
+            name="cancer-type"
+            value="ductal"
+            required
+    />
+    <label for="ductal">Breast Invasive Ductal Carcinoma</label><br/>
+    <input
+            type="radio"
+            id="mixed"
+            name="cancer-type"
+            value="mixed"
+            required
+    />
+    <label for="mixed">Breast Mixed Ductal and Lobular Carcinoma</label><br/>
+    <input
+            type="radio"
+            id="lobular"
+            name="cancer-type"
+            value="lobular"
+            required
+    />
+    <label for="lobular">Breast Invasive Lobular Carcinoma</label><br/><br/>
+    <label>Cancer cellularity post chemotherapy value</label><br/><br/>
+    <input
+            type="radio"
+            id="low"
+            name="cellularity"
+            value="low"
+            required
+    />
+    <label for="low">Low cellularity</label><br/>
+    <input
+            type="radio"
+            id="moderate"
+            name="cellularity"
+            value="moderate"
+            required
+    />
+    <label for="moderate">Moderate cellularity</label><br/>
+    <input
+            type="radio"
+            id="high"
+            name="cellularity"
+            value="high"
+            required
+    />
+    <label for="high">High cellularity</label><br/><br/>
+    <label>Pam 50 low subtype</label><br/><br/>
+    <input
+            type="radio"
+            id="her2"
+            name="pam50"
+            value="her2"
+            required
+    />
+    <label for="her2">Her 2</label><br/>
+    <input
+            type="radio"
+            id="lumA"
+            name="pam50"
+            value="lumA"
+            required
+    />
+    <label for="lumA">LumA</label><br/>
+    <input
+            type="radio"
+            id="lumB"
+            name="pam50"
+            value="lumB"
+            required
+    />
+    <label for="lumB">LumB</label><br/>
+    <input
+            type="radio"
+            id="normal"
+            name="pam50"
+            value="normal"
+            required
+    />
+    <label for="normal">Normal</label><br/>
+    <input
+            type="radio"
+            id="low_pam50"
+            name="pam50"
+            value="low_pam50"
+            required
+    />
+    <label for="low_pam50">Low</label><br/>
+    <input
+            type="radio"
+            id="basal"
+            name="pam50"
+            value="basal"
+            required
+    />
+    <label for="basal">Basal</label><br/><br/>
+    <label>Er status</label><br/><br/>
+    <input
+            type="radio"
+            id="positive"
+            name="er_status"
+            value="positive"
+            required
+    />
+    <label for="positive">Positive</label><br/>
+    <input
+            type="radio"
+            id="negative"
+            name="er_status"
+            value="negative"
+            required
+    />
+    <label for="negative">Negative</label><br/><br/>
+    <label>Her2 status</label><br/><br/>
+    <input
+            type="radio"
+            id="positive"
+            name="her2_status"
+            value="positive"
+            required
+    />
+    <label for="positive">Positive</label><br/>
+    <input
+            type="radio"
+            id="negative"
+            name="her2_status"
+            value="negative"
+            required
+    />
+    <label for="negative">Negative</label><br/><br/>
+    <label>Tumor other histologic subtype</label><br/><br/>
+    <input
+            type="radio"
+            id="lobular"
+            name="tumor_other"
+            value="lobular"
+            required
+    />
+    <label for="lobular">Lobular</label><br/>
+    <input
+            type="radio"
+            id="mixed_tumor"
+            name="tumor_other"
+            value="mixed_tumor"
+            required
+    />
+    <label for="mixed_tumor">Mixed</label><br/>
+    <input
+            type="radio"
+            id="ductal"
+            name="tumor_other"
+            value="ductal"
+            required/>
+    <label for="ductal">Ductal/NST</label><br/><br/>
+    <label>Inferred Menopausal State</label><br/><br/>
+    <input
+            type="radio"
+            id="post"
+            name="menopausal_state"
+            value="post"
+            required
+    />
+    <label for="post">Post-Menopausal</label><br/>
+    <input
+            type="radio"
+            id="pre"
+            name="menopausal_state"
+            value="pre"
+            required
+    />
+    <label for="post">Pre-Menopausal</label><br/><br/>
+    <label>PR Status</label><br/><br/>
+    <input
+            type="radio"
+            id="pr_positive"
+            name="pr_status"
+            value="pr_positive"
+            required
+    />
+    <label for="post">Positive</label><br/>
+    <input
+            type="radio"
+            id="pr_negative"
+            name="pr_status"
+            value="pr_negative"
+            required
+    />
+    <label for="post">Negative</label><br/><br/>
+    <label>3 gene classifier subtype values</label><br/><br/>
+    <input
+            type="radio"
+            id="low_prolif"
+            name="3_gene"
+            value="low_prolif"
+            required
+    />
+    <label for="low_prolif">ER+/HER2- Low Prolif</label><br/>
+    <input
+            type="radio"
+            id="high_prolif"
+            name="3_gene"
+            value="high_prolif"
+            required>
+    <label for="high_prolif">ER+/HER2- High Prolif</label><br/>
+    <input
+            type="radio"
+            id="er_"
+            name="3_gene"
+            value="er_"
+    >
+    <label for="er_">ER-/HER2-</label><br/>
+    <input
+            type="radio"
+            id="her2+"
+            name="3_gene"
+            value="her2+"
+    >
+    <label for="her2+">HER2+</label><br/><br/>
+    <label for="age"
+    >What is the age interval of the patient?(Right end inclusive)</label
+    ><br/><br/>
+    <input
+            type="radio"
+            id="20-40"
+            name="age"
+            value="20-40"
+            required
+    />
+    <label for="20-40">20-40</label><br/>
+    <input
+            type="radio"
+            id="40-60"
+            name="age"
+            value="40-60"
+            required
+    />
+    <label for="40-60">40-60</label><br/>
+    <input
+            type="radio"
+            id="60-80"
+            name="age"
+            value="60-80"
+            required
+    />
+    <label for="60-80">60-80</label><br/>
+    <input
+            type="radio"
+            id="80-100"
+            name="age"
+            value="80-100"
+            required
+    />
+    <label for="80-100">80-100</label><br/>
+
+    <input type="submit" value="Predict" class="button"/>
+</form>
+</body>
+</html>

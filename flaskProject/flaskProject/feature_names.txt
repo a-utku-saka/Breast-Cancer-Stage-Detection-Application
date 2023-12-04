@@ -1,0 +1,36 @@
+['chemotherapy', 'neoplasm_histologic_grade',
+'hormone_therapy', 'lymph_nodes_examined_positive',
+'nottingham_prognostic_index', 'radio_therapy',
+'tumor_size', 'type_of_breast_surgery_MASTECTOMY',
+'cancer_type_detailed_Breast Invasive Lobular Carcinoma',
+'cancer_type_detailed_Breast Mixed Ductal and Lobular Carcinoma',
+
+
+'cellularity_Low', 'cellularity_Moderate',
+
+'pam50_+_claudin-low_subtype_Her2',
+'pam50_+_claudin-low_subtype_LumA',
+'pam50_+_claudin-low_subtype_LumB',
+'pam50_+_claudin-low_subtype_Normal',
+'pam50_+_claudin-low_subtype_claudin-low',
+
+
+'er_status_Positive',
+
+'her2_status_Positive',
+
+'tumor_other_histologic_subtype_Lobular',
+'tumor_other_histologic_subtype_Mixed',
+
+
+'inferred_menopausal_state_Pre',
+
+'pr_status_Positive',
+
+
+'3-gene_classifier_subtype_ER+/HER2- Low Prolif',
+'3-gene_classifier_subtype_ER-/HER2-',
+'3-gene_classifier_subtype_HER2+',
+
+
+'age_group_40-60','age_group_60-80','age_group_80-100']

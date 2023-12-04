@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Dataset Information</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+    <link rel="stylesheet" href="../static/common.css">
+</head>
+<body>
+{% include 'common_nav.html' %}
+<h1>Dataset Information</h1>
+<table>
+    <tr>
+        <th>Feature</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>age_at_diagnosis</td>
+        <td>Patient age at diagnosis.</td>
+    </tr>
+    <tr>
+        <td>type_of_breast_surgery</td>
+        <td>The type of surgery in which the breast cancer tumor is removed.</td>
+    </tr>
+    <tr>
+        <td>cancer_type</td>
+        <td>The type of cancer (cancer or sarcoma).</td>
+    </tr>
+    <tr>
+        <td>cancer_type_detailed</td>
+        <td>Breast cancer type (contains 5 different types).</td>
+    </tr>
+    <tr>
+        <td>cellularity</td>
+        <td>Data on cancer cellularity examined after chemotherapy.</td>
+    </tr>
+    <tr>
+        <td>chemotherapy</td>
+        <td>Whether the patient received chemotherapy during the disease process or not.</td>
+    </tr>
+    <tr>
+        <td>pam50_+_claudin-low_subtype</td>
+        <td>Contains data obtained as a result of examining 50 different gene regions.</td>
+    </tr>
+    <tr>
+        <td>cohort</td>
+        <td>Groups of subjects who share an identifying feature (values from 1 to 5 in the dataset).</td>
+    </tr>
+    <tr>
+        <td>er_status_measured_by_ihc</td>
+        <td>Data evaluating the measurement status of estrogen receptors.</td>
+    </tr>
+    <tr>
+        <td>er_status</td>
+        <td>Estrogen receptors of cancer cells.</td>
+    </tr>
+    <tr>
+        <td>neoplasm_histologic_grade</td>
+        <td>The pathology of the cells is examined. Determine whether he appears aggressive or not.</td>
+    </tr>
+    <tr>
+        <td>her2_status_measured_by_snp6</td>
+        <td>Data on cancer HER2 status (using advanced molecular techniques).</td>
+    </tr>
+    <tr>
+        <td>her2_status</td>
+        <td>Data for HER2 status of cancer.</td>
+    </tr>
+    <tr>
+        <td>tumor_other_histologic_subtype</td>
+        <td>Result of cancer type obtained by microscopic examination.</td>
+    </tr>
+    <tr>
+        <td>hormone_therapy</td>
+        <td>Data on whether the patient is receiving hormone therapy.</td>
+    </tr>
+    <tr>
+        <td>inferred_menopausal_state</td>
+        <td>The patient's menopausal status.</td>
+    </tr>
+    <tr>
+        <td>integrative_cluster</td>
+        <td>The molecular subtype of cancer.</td>
+    </tr>
+    <tr>
+        <td>primary_tumor_laterality</td>
+        <td>Information about whether the cancer is in the right breast or the left breast.</td>
+    </tr>
+    <tr>
+        <td>lymph_nodes_examined_positive</td>
+        <td>Information on whether there is cancer in the lymph node as a result of the examination of the patient's
+            lymph nodes.
+        </td>
+    </tr>
+    <tr>
+        <td>mutation_count</td>
+        <td>The number of genes with mutations.</td>
+    </tr>
+    <tr>
+        <td>nottingham_prognostic_index</td>
+        <td>Data used to determine prognosis after surgery.</td>
+    </tr>
+    <tr>
+        <td>oncotree_code</td>
+        <td>An open-source ontology.</td>
+    </tr>
+    <tr>
+        <td>overall_survival_months</td>
+        <td>Patient's survival time.</td>
+    </tr>
+    <tr>
+        <td>overall_survival</td>
+        <td>Data whether the patient is alive or not.</td>
+    </tr>
+    <tr>
+        <td>pr_status</td>
+        <td>Progesterone receptor status of cancer cells.</td>
+    </tr>
+    <tr>
+        <td>radio_therapy</td>
+        <td>Information about whether the patient is using radiotherapy.</td>
+    </tr>
+    <tr>
+        <td>3-gene_classifier_subtype</td>
+        <td>Information about the 3 gene classifier subtypes.</td>
+    </tr>
+    <tr>
+        <td>tumor_size</td>
+        <td>The size of the tumor.</td>
+    </tr>
+    <tr>
+        <td>tumor_stage</td>
+        <td>Stage of the tumor.</td>
+    </tr>
+</table>
+</body>
+</html>

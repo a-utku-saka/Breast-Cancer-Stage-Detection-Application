@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.stage-num {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.info-link {
+    color: #00F; /* Blue color */
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 1.5em;
+}
+
+.info-link:hover {
+    background-color: #00F; /* Blue color */
+    color: #FFF; /* White color */
+}

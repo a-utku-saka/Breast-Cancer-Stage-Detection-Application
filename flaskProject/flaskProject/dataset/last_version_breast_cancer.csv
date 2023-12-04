@@ -1,0 +1,1077 @@
+type_of_breast_surgery,cancer_type_detailed,cellularity,chemotherapy,pam50_+_claudin-low_subtype,er_status,neoplasm_histologic_grade,her2_status,tumor_other_histologic_subtype,hormone_therapy,inferred_menopausal_state,lymph_nodes_examined_positive,nottingham_prognostic_index,pr_status,radio_therapy,3-gene_classifier_subtype,tumor_size,tumor_stage,age_group
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.02,Positive,1,ER+/HER2- High Prolif,10.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,1,LumB,Positive,3.0,Negative,Mixed,1,Post,8.0,6.08,Positive,1,ER+/HER2- High Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.032,Negative,1,ER+/HER2- High Prolif,16.0,2.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,Her2,Positive,2.0,Negative,Lobular,0,Post,0.0,3.056,Negative,0,ER+/HER2- High Prolif,28.0,2.0,80-100
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,1,Normal,Positive,2.0,Negative,Mixed,1,Pre,3.0,4.066,Positive,1,ER+/HER2- Low Prolif,33.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.046,Positive,1,ER+/HER2- High Prolif,23.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.032,Positive,1,ER+/HER2- High Prolif,16.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.078,Negative,1,ER-/HER2-,39.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Lobular,1,Pre,0.0,3.068,Positive,1,ER+/HER2- Low Prolif,34.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,1,LumB,Positive,2.0,Negative,Lobular,1,Post,16.0,5.08,Positive,1,ER+/HER2- High Prolif,40.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,1.0,Negative,Ductal/NST,1,Pre,5.0,4.14,Positive,1,ER+/HER2- Low Prolif,70.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.0540000000000003,Positive,0,ER+/HER2- Low Prolif,27.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Lobular,1,Post,14.0,6.3,Negative,1,ER+/HER2- Low Prolif,150.0,3.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Pre,3.0,5.034,Negative,1,HER2+,17.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.05,Negative,1,ER-/HER2-,25.0,2.0,20-40
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,1,Normal,Positive,2.0,Negative,Lobular,1,Pre,1.0,4.12,Positive,1,ER+/HER2- High Prolif,60.0,3.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,1.0,4.046,Negative,1,ER+/HER2- Low Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.046,Negative,1,ER+/HER2- High Prolif,23.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.052,Negative,1,ER+/HER2- High Prolif,26.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,6.0,5.06,Negative,1,ER+/HER2- Low Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,1.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Low,1,LumA,Positive,2.0,Negative,Mixed,1,Pre,2.0,4.1,Positive,1,ER+/HER2- Low Prolif,50.0,3.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumB,Positive,1.0,Negative,Mixed,1,Post,0.0,2.018,Positive,0,ER+/HER2- Low Prolif,9.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.07,Positive,1,ER+/HER2- Low Prolif,35.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.028,Positive,1,ER+/HER2- Low Prolif,14.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,4.0,6.047999999999999,Negative,1,HER2+,24.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,1.0,Positive,Ductal/NST,1,Post,0.0,2.0340000000000003,Negative,0,HER2+,17.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.078,Negative,1,ER+/HER2- High Prolif,39.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,1,LumA,Positive,1.0,Negative,Mixed,1,Post,1.0,3.16,Negative,1,ER+/HER2- Low Prolif,80.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.044,Negative,1,ER+/HER2- High Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.07,Positive,1,ER+/HER2- High Prolif,35.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.026,Positive,0,ER+/HER2- Low Prolif,13.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.036,Positive,0,ER+/HER2- Low Prolif,18.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Lobular,1,Pre,1.0,4.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.053999999999999,Negative,1,ER+/HER2- High Prolif,27.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.032,Positive,0,ER+/HER2- Low Prolif,16.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.044,Negative,1,ER+/HER2- High Prolif,22.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Lobular,1,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.044,Negative,1,ER+/HER2- High Prolif,22.0,2.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,9.0,5.0760000000000005,Positive,1,ER+/HER2- High Prolif,38.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.038,Negative,0,HER2+,19.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.078,Negative,1,ER-/HER2-,39.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Negative,0,ER-/HER2-,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,6.0,6.1,Positive,1,ER+/HER2- High Prolif,50.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.024,Negative,0,HER2+,12.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.024,Negative,0,ER+/HER2- Low Prolif,12.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.018,Negative,1,ER+/HER2- Low Prolif,9.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.06,Negative,1,ER-/HER2-,30.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,1.0,4.0280000000000005,Positive,1,ER+/HER2- Low Prolif,14.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.032,Negative,1,ER-/HER2-,16.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Positive,Ductal/NST,1,Post,22.0,6.104,Negative,1,HER2+,52.0,3.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,3.0,5.048,Positive,1,ER+/HER2- Low Prolif,24.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.0760000000000005,Positive,1,ER+/HER2- High Prolif,38.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.034,Negative,1,ER+/HER2- Low Prolif,17.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,Normal,Positive,3.0,Negative,Mixed,1,Post,0.0,4.053999999999999,Negative,1,ER+/HER2- Low Prolif,27.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,1.0,4.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,4.0,6.087999999999999,Positive,1,ER+/HER2- High Prolif,44.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.048,Negative,1,ER-/HER2-,24.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,7.0,6.072,Positive,1,ER+/HER2- High Prolif,36.0,2.0,20-40
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumA,Positive,2.0,Negative,Mixed,1,Post,2.0,4.088,Positive,1,ER+/HER2- Low Prolif,44.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,7.0,6.068,Negative,1,ER-/HER2-,34.0,3.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.036,Positive,1,ER+/HER2- Low Prolif,18.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.042,Positive,1,ER+/HER2- Low Prolif,21.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,claudin-low,Positive,1.0,Negative,Mixed,1,Post,0.0,2.026,Negative,1,ER+/HER2- Low Prolif,13.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,6.0,5.042,Positive,1,ER+/HER2- Low Prolif,21.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,21.0,6.056,Negative,1,ER+/HER2- High Prolif,28.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.048,Positive,1,ER+/HER2- High Prolif,24.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,4.0,6.0360000000000005,Positive,1,ER+/HER2- High Prolif,18.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Mixed,1,Post,1.0,5.038,Positive,1,ER+/HER2- Low Prolif,19.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Positive,Ductal/NST,0,Pre,0.0,4.04,Negative,1,HER2+,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,1.0,5.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.02,Negative,1,ER+/HER2- Low Prolif,10.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Low,0,Normal,Positive,2.0,Negative,Lobular,1,Post,0.0,3.052,Negative,1,ER+/HER2- Low Prolif,26.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.006,Negative,0,ER-/HER2-,3.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.053999999999999,Negative,1,ER-/HER2-,27.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,2.0,Negative,Mixed,1,Post,0.0,3.08,Positive,1,ER+/HER2- High Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,2.0,5.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,6.0,6.04,Negative,0,HER2+,20.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,7.0,6.04,Negative,0,ER+/HER2- High Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,12.0,6.04,Negative,1,ER+/HER2- Low Prolif,20.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Positive,Ductal/NST,1,Post,0.0,3.0380000000000003,Negative,0,HER2+,19.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,1.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,0,Normal,Positive,1.0,Negative,Lobular,0,Post,1.0,3.034,Positive,0,ER+/HER2- Low Prolif,17.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Pre,0.0,3.0380000000000003,Positive,1,ER+/HER2- Low Prolif,19.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.028,Positive,0,ER+/HER2- Low Prolif,14.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.034,Positive,0,ER+/HER2- Low Prolif,17.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Positive,Ductal/NST,1,Pre,0.0,4.053999999999999,Positive,1,HER2+,27.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,4.0,6.07,Negative,1,ER-/HER2-,35.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,1.0,Negative,Mixed,1,Post,0.0,2.092,Positive,1,ER+/HER2- Low Prolif,46.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.036,Positive,0,ER+/HER2- Low Prolif,18.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.044,Positive,1,ER+/HER2- Low Prolif,22.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.03,Positive,1,ER+/HER2- Low Prolif,15.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.042,Positive,1,ER+/HER2- Low Prolif,21.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.022,Negative,1,ER-/HER2-,11.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.05,Negative,1,ER+/HER2- High Prolif,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.022,Positive,1,ER+/HER2- High Prolif,11.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,1.0,Negative,Ductal/NST,1,Post,6.0,4.052,Positive,1,ER+/HER2- High Prolif,26.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,2.0,Negative,Ductal/NST,1,Pre,1.0,4.042,Negative,1,ER-/HER2-,21.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.052,Negative,1,ER-/HER2-,26.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.0280000000000005,Positive,0,ER+/HER2- High Prolif,14.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,8.0,6.056,Negative,0,ER+/HER2- High Prolif,28.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.05,Negative,1,ER+/HER2- Low Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Low,1,claudin-low,Positive,3.0,Negative,Mixed,1,Post,8.0,6.0360000000000005,Positive,1,ER+/HER2- Low Prolif,18.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Normal,Positive,2.0,Positive,Ductal/NST,1,Post,25.0,5.06,Negative,0,ER+/HER2- Low Prolif,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.052,Positive,0,HER2+,26.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,1.0,5.11,Negative,0,ER-/HER2-,55.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Normal,Negative,2.0,Negative,Ductal/NST,1,Pre,0.0,3.028,Negative,1,HER2+,14.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.046,Positive,1,ER+/HER2- Low Prolif,23.0,2.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Lobular,1,Post,5.0,6.058,Negative,1,ER+/HER2- Low Prolif,29.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Pre,0.0,4.022,Negative,0,ER-/HER2-,11.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,6.0,6.07,Positive,0,ER+/HER2- Low Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.07,Positive,1,ER+/HER2- High Prolif,35.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Positive,3.0,Positive,Ductal/NST,1,Pre,6.0,6.02,Negative,1,HER2+,10.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,1.0,3.042,Positive,0,ER+/HER2- Low Prolif,21.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.032,Positive,1,ER+/HER2- Low Prolif,16.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.094,Negative,0,ER+/HER2- High Prolif,47.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Lobular,1,Post,0.0,3.0660000000000003,Positive,0,ER+/HER2- High Prolif,33.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.046,Positive,0,ER+/HER2- High Prolif,23.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,5.0,6.1,Negative,0,HER2+,50.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.1,Negative,1,ER+/HER2- Low Prolif,50.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.06,Negative,1,ER-/HER2-,30.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,1,Post,10.0,5.064,Negative,1,ER+/HER2- High Prolif,32.0,2.0,80-100
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Mixed,1,Post,0.0,2.0340000000000003,Positive,1,ER+/HER2- Low Prolif,17.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,2.0,5.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.05,Negative,1,ER+/HER2- Low Prolif,25.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.09,Positive,1,ER+/HER2- High Prolif,45.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.044,Positive,1,ER+/HER2- High Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,3.0,5.032,Negative,1,ER-/HER2-,16.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Lobular,1,Post,2.0,4.058,Positive,1,ER+/HER2- Low Prolif,29.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,1.0,4.056,Positive,0,ER+/HER2- Low Prolif,28.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,5.0,6.032,Negative,0,HER2+,16.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.044,Positive,1,ER+/HER2- Low Prolif,22.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.06,Negative,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.026,Negative,1,ER-/HER2-,13.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,6.0,5.08,Negative,1,ER+/HER2- Low Prolif,40.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,3.0,5.034,Negative,0,ER-/HER2-,17.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Positive,0,ER+/HER2- High Prolif,16.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.052,Positive,1,ER+/HER2- High Prolif,26.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,1.0,Negative,Ductal/NST,1,Post,2.0,3.1,Positive,1,ER+/HER2- High Prolif,50.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,41.0,6.047999999999999,Negative,0,HER2+,24.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.0360000000000005,Positive,1,ER+/HER2- High Prolif,18.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,6.0,5.1,Negative,1,ER+/HER2- Low Prolif,50.0,3.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.044,Positive,0,ER+/HER2- High Prolif,22.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,10.0,6.062,Positive,1,ER+/HER2- High Prolif,31.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,16.0,6.093999999999999,Negative,1,ER+/HER2- High Prolif,47.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,6.0,6.044,Negative,1,HER2+,22.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,1,Pre,0.0,4.0360000000000005,Negative,1,ER-/HER2-,18.0,1.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,2.0,5.048,Positive,1,HER2+,24.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,15.0,6.05,Negative,0,ER+/HER2- High Prolif,25.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Normal,Positive,3.0,Negative,Ductal/NST,0,Post,1.0,5.046,Positive,1,ER-/HER2-,23.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.024,Positive,1,ER+/HER2- Low Prolif,12.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,2.0,5.056,Negative,1,HER2+,28.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,1.0,4.058,Negative,1,ER+/HER2- Low Prolif,29.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Positive,3.0,Positive,Ductal/NST,1,Pre,0.0,4.042,Negative,1,HER2+,21.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.044,Negative,1,ER+/HER2- Low Prolif,22.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.038,Negative,0,ER+/HER2- High Prolif,19.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,13.0,6.086,Positive,1,ER+/HER2- High Prolif,43.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,11.0,6.062,Negative,1,ER+/HER2- High Prolif,31.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,8.0,6.03,Positive,1,ER+/HER2- Low Prolif,15.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Normal,Positive,3.0,Positive,Ductal/NST,1,Pre,3.0,5.056,Negative,1,ER+/HER2- Low Prolif,28.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Positive,Ductal/NST,1,Pre,19.0,6.1,Positive,1,HER2+,50.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,16.0,6.106,Positive,1,ER+/HER2- High Prolif,53.0,3.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,2.0,5.1,Negative,1,HER2+,50.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.053999999999999,Negative,1,ER-/HER2-,27.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,19.0,6.084,Negative,1,ER+/HER2- High Prolif,42.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,11.0,6.09,Negative,1,ER-/HER2-,45.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.032,Negative,0,ER-/HER2-,16.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.022,Positive,1,ER+/HER2- Low Prolif,11.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.03,Positive,1,ER+/HER2- High Prolif,15.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,17.0,6.36,Negative,1,ER+/HER2- High Prolif,180.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Mixed,1,Post,1.0,4.0360000000000005,Negative,1,ER+/HER2- Low Prolif,18.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.038,Negative,1,ER+/HER2- High Prolif,19.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,5.0,6.093999999999999,Positive,1,ER+/HER2- High Prolif,47.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.042,Negative,1,ER-/HER2-,21.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Her2,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.08,Positive,1,ER+/HER2- High Prolif,40.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.062,Negative,1,ER+/HER2- High Prolif,31.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.042,Positive,1,ER+/HER2- Low Prolif,21.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.032,Negative,1,ER-/HER2-,16.0,1.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Her2,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.048,Positive,0,HER2+,24.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,7.0,5.032,Positive,1,ER+/HER2- Low Prolif,16.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,6.0,5.044,Positive,1,ER+/HER2- Low Prolif,22.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Normal,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.084,Positive,1,ER+/HER2- Low Prolif,42.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Lobular,1,Post,15.0,5.042,Negative,1,ER+/HER2- High Prolif,21.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,4.0,6.04,Negative,1,ER+/HER2- High Prolif,20.0,2.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumB,Positive,3.0,Negative,Lobular,1,Post,4.0,6.08,Positive,1,ER+/HER2- High Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,2.0,4.114,Negative,1,ER+/HER2- Low Prolif,57.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,2.0,5.04,Negative,0,HER2+,20.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.026,Negative,1,ER-/HER2-,13.0,1.0,80-100
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumB,Positive,2.0,Negative,Mixed,1,Post,3.0,4.03,Positive,1,ER+/HER2- High Prolif,15.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,1.0,5.05,Negative,1,HER2+,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.052,Negative,1,ER+/HER2- High Prolif,26.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.034,Negative,0,ER+/HER2- Low Prolif,17.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.052,Positive,1,ER+/HER2- Low Prolif,26.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,1.0,4.046,Positive,1,ER+/HER2- High Prolif,23.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.048,Negative,0,ER-/HER2-,24.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,2.0,3.07,Positive,1,ER+/HER2- Low Prolif,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.032,Negative,0,ER+/HER2- Low Prolif,16.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.046,Negative,1,ER+/HER2- High Prolif,23.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Negative,Ductal/NST,1,Post,6.0,6.2,Negative,1,ER+/HER2- High Prolif,100.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.036,Positive,1,ER+/HER2- High Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Normal,Positive,2.0,Negative,Ductal/NST,1,Pre,2.0,4.1,Positive,1,ER+/HER2- Low Prolif,50.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.0680000000000005,Negative,1,ER+/HER2- High Prolif,34.0,3.0,80-100
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,claudin-low,Positive,2.0,Negative,Lobular,1,Post,0.0,3.044,Positive,1,ER+/HER2- Low Prolif,22.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Positive,Ductal/NST,1,Post,0.0,4.032,Negative,1,HER2+,16.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.042,Positive,1,ER+/HER2- Low Prolif,21.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,17.0,6.026,Negative,1,ER-/HER2-,13.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,2.0,5.052,Negative,0,HER2+,26.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,4.0,5.14,Negative,1,ER+/HER2- High Prolif,70.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.026,Negative,0,HER2+,13.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.078,Positive,1,ER+/HER2- High Prolif,39.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.16,Positive,1,ER+/HER2- High Prolif,80.0,3.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.05,Negative,1,ER-/HER2-,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.046,Positive,1,ER+/HER2- Low Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Pre,0.0,4.044,Negative,1,HER2+,22.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.026,Negative,1,ER+/HER2- Low Prolif,13.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.038,Negative,1,ER-/HER2-,19.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Normal,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.032,Negative,1,HER2+,16.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,2.0,5.042,Positive,1,ER+/HER2- High Prolif,21.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Positive,3.0,Positive,Ductal/NST,1,Pre,3.0,5.044,Positive,1,ER+/HER2- High Prolif,22.0,2.0,20-40
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,1,LumA,Positive,3.0,Negative,Mixed,1,Post,7.0,6.1,Negative,1,ER+/HER2- High Prolif,50.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.064,Positive,1,ER+/HER2- Low Prolif,32.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Pre,0.0,4.02,Negative,0,ER-/HER2-,10.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,10.0,5.06,Positive,1,ER+/HER2- Low Prolif,30.0,3.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Pre,0.0,3.06,Positive,1,ER+/HER2- High Prolif,30.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,21.0,6.08,Negative,1,ER-/HER2-,40.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,7.0,6.037999999999999,Negative,1,ER-/HER2-,19.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Normal,Positive,1.0,Negative,Ductal/NST,1,Post,4.0,4.052,Positive,1,ER+/HER2- Low Prolif,26.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.0580000000000003,Positive,1,ER+/HER2- Low Prolif,29.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.044,Negative,1,ER-/HER2-,22.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.042,Positive,1,ER+/HER2- Low Prolif,21.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,5.0,6.06,Negative,1,ER-/HER2-,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.0460000000000003,Positive,1,ER+/HER2- Low Prolif,23.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.042,Positive,1,ER+/HER2- Low Prolif,21.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,1.0,3.024,Positive,1,ER+/HER2- Low Prolif,12.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,1.0,5.042,Positive,1,ER+/HER2- High Prolif,21.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.0360000000000005,Positive,1,ER+/HER2- Low Prolif,18.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.022,Negative,0,ER+/HER2- High Prolif,11.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Basal,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.022,Positive,1,ER+/HER2- High Prolif,11.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.12,Positive,1,ER+/HER2- High Prolif,60.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.062,Positive,1,ER+/HER2- Low Prolif,31.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.064,Positive,1,ER+/HER2- Low Prolif,32.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Negative,1,ER-/HER2-,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.034,Positive,1,ER+/HER2- Low Prolif,17.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,23.0,6.13,Negative,1,ER+/HER2- Low Prolif,65.0,3.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,3.0,4.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Normal,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.02,Negative,0,ER+/HER2- Low Prolif,10.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.05,Negative,1,ER-/HER2-,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.038,Positive,1,ER+/HER2- Low Prolif,19.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.052,Negative,1,ER+/HER2- Low Prolif,26.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.07,Positive,1,ER+/HER2- High Prolif,35.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.024,Positive,1,ER+/HER2- Low Prolif,12.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Negative,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,26.0,6.074,Positive,1,ER+/HER2- High Prolif,37.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,claudin-low,Negative,1.0,Negative,Mixed,1,Post,0.0,2.024,Negative,1,ER-/HER2-,12.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.038,Negative,1,ER+/HER2- High Prolif,19.0,1.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Normal,Positive,3.0,Negative,Ductal/NST,1,Pre,5.0,6.046,Positive,1,ER+/HER2- High Prolif,23.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.104,Positive,1,ER+/HER2- Low Prolif,52.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.034,Positive,0,ER+/HER2- Low Prolif,17.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,14.0,6.046,Positive,1,ER+/HER2- High Prolif,23.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.042,Positive,1,ER+/HER2- High Prolif,21.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,4.0,5.11,Positive,1,ER+/HER2- Low Prolif,55.0,3.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,5.0,6.042000000000001,Positive,1,ER+/HER2- High Prolif,21.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,1,Normal,Positive,2.0,Negative,Lobular,1,Post,6.0,5.084,Positive,1,ER+/HER2- Low Prolif,42.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.058,Negative,1,ER+/HER2- Low Prolif,29.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,2.0,5.08,Positive,1,ER+/HER2- High Prolif,40.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,14.0,6.0520000000000005,Negative,1,ER-/HER2-,26.0,2.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,Basal,Negative,3.0,Negative,Lobular,0,Post,0.0,4.06,Negative,0,ER-/HER2-,30.0,2.0,80-100
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.044,Positive,0,ER+/HER2- Low Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.056,Negative,1,ER+/HER2- High Prolif,28.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,0,LumA,Positive,2.0,Negative,Lobular,1,Post,1.0,4.13,Negative,1,ER+/HER2- Low Prolif,65.0,3.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,1,LumA,Positive,2.0,Negative,Mixed,1,Post,1.0,4.048,Positive,1,ER+/HER2- High Prolif,24.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Normal,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.044,Negative,0,ER+/HER2- Low Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,15.0,6.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.034,Negative,0,ER+/HER2- High Prolif,17.0,1.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,1,Her2,Negative,2.0,Positive,Lobular,0,Post,13.0,5.18,Negative,1,HER2+,90.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.09,Negative,1,ER+/HER2- High Prolif,45.0,3.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.032,Positive,1,ER+/HER2- Low Prolif,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Normal,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.034,Positive,1,ER+/HER2- Low Prolif,17.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,9.0,5.048,Positive,1,ER+/HER2- High Prolif,24.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,1.0,4.048,Negative,1,ER+/HER2- Low Prolif,24.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,9.0,6.053999999999999,Negative,1,ER+/HER2- High Prolif,27.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,8.0,6.05,Negative,1,ER+/HER2- High Prolif,25.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.042,Positive,0,ER+/HER2- Low Prolif,21.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,0.0,3.036,Positive,0,ER+/HER2- Low Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,1,Post,0.0,3.036,Negative,0,ER+/HER2- High Prolif,18.0,1.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.0280000000000005,Negative,0,ER+/HER2- High Prolif,14.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.0360000000000005,Negative,1,ER+/HER2- Low Prolif,18.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.048,Positive,0,ER+/HER2- High Prolif,24.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,1.0,5.038,Positive,0,ER+/HER2- High Prolif,19.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.0760000000000005,Negative,1,ER+/HER2- High Prolif,38.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.034,Positive,0,ER+/HER2- Low Prolif,17.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Normal,Positive,3.0,Negative,Ductal/NST,1,Pre,1.0,5.05,Negative,1,ER+/HER2- High Prolif,25.0,2.0,20-40
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,1.0,4.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.032,Negative,0,ER+/HER2- Low Prolif,16.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.02,Negative,1,ER+/HER2- High Prolif,10.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Positive,Ductal/NST,1,Pre,0.0,4.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Negative,1,ER+/HER2- Low Prolif,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.024,Positive,1,ER+/HER2- High Prolif,12.0,1.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.062,Positive,1,ER+/HER2- High Prolif,31.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Normal,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.026,Positive,1,ER+/HER2- Low Prolif,13.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.0280000000000005,Negative,1,ER+/HER2- Low Prolif,14.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,12.0,6.12,Negative,1,ER-/HER2-,60.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,5.0,5.06,Positive,1,ER+/HER2- Low Prolif,30.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,4.0,4.016,Positive,1,ER+/HER2- Low Prolif,8.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.042,Negative,1,ER+/HER2- High Prolif,21.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,Her2,Negative,3.0,Negative,Lobular,1,Post,2.0,5.056,Negative,1,ER+/HER2- High Prolif,28.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.048,Positive,1,ER+/HER2- Low Prolif,24.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Positive,Ductal/NST,0,Pre,0.0,4.2,Negative,1,HER2+,100.0,3.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,2.0,5.05,Negative,1,ER-/HER2-,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Negative,Ductal/NST,1,Post,22.0,6.32,Negative,1,ER+/HER2- High Prolif,160.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.016,Positive,0,ER+/HER2- Low Prolif,8.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Normal,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.0280000000000005,Positive,1,HER2+,14.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,10.0,6.167999999999999,Negative,1,ER-/HER2-,84.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,9.0,6.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.058,Negative,1,ER-/HER2-,29.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.078,Negative,1,ER-/HER2-,39.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,4.0,6.07,Positive,0,ER+/HER2- High Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.06,Positive,0,ER+/HER2- Low Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.093999999999999,Positive,0,ER+/HER2- High Prolif,47.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,15.0,6.046,Negative,1,ER+/HER2- High Prolif,23.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,2.0,3.074,Negative,0,ER+/HER2- Low Prolif,37.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,3.0,5.056,Negative,1,ER-/HER2-,28.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.038,Positive,1,HER2+,19.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.044,Positive,0,ER+/HER2- Low Prolif,22.0,2.0,80-100
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Mixed,1,Post,0.0,4.056,Negative,1,ER-/HER2-,28.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Negative,2.0,Positive,Ductal/NST,0,Post,0.0,3.04,Negative,1,HER2+,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,0.0,4.03,Negative,0,HER2+,15.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Mixed,0,Post,0.0,2.03,Negative,0,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,claudin-low,Negative,2.0,Negative,Lobular,1,Post,1.0,4.04,Negative,0,ER-/HER2-,20.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumA,Positive,1.0,Negative,Mixed,1,Post,1.0,3.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,1,LumA,Positive,1.0,Negative,Mixed,0,Pre,10.0,4.03,Positive,0,ER+/HER2- Low Prolif,15.0,3.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Mixed,0,Post,0.0,3.036,Positive,1,ER+/HER2- Low Prolif,18.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.0360000000000005,Negative,1,ER+/HER2- High Prolif,18.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.032,Positive,1,HER2+,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,3.0,5.03,Negative,1,HER2+,15.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.02,Positive,1,ER+/HER2- High Prolif,10.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,LumB,Positive,3.0,Negative,Ductal/NST,0,Pre,3.0,5.07,Positive,1,ER+/HER2- High Prolif,35.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.048,Negative,0,ER+/HER2- Low Prolif,24.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.034,Negative,1,ER+/HER2- High Prolif,17.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Negative,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,1,Post,0.0,3.03,Positive,0,ER+/HER2- High Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Positive,0,ER+/HER2- Low Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Pre,3.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,0,Pre,11.0,6.08,Positive,1,ER+/HER2- High Prolif,40.0,3.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,4.0,6.07,Negative,1,ER+/HER2- High Prolif,35.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,0,Pre,1.0,5.024,Negative,1,HER2+,12.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,3.0,5.03,Negative,1,HER2+,15.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Pre,1.0,4.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.0380000000000003,Positive,0,ER+/HER2- Low Prolif,19.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.026,Positive,0,ER+/HER2- Low Prolif,13.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Mixed,0,Pre,0.0,2.06,Negative,0,ER+/HER2- Low Prolif,30.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.07,Positive,0,ER+/HER2- Low Prolif,35.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.074,Negative,1,ER-/HER2-,37.0,2.0,20-40
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,Normal,Negative,2.0,Negative,Lobular,1,Post,0.0,3.07,Negative,0,ER+/HER2- Low Prolif,35.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Positive,Ductal/NST,0,Pre,4.0,6.09,Negative,0,HER2+,45.0,3.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.03,Positive,1,ER+/HER2- Low Prolif,15.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.034,Positive,1,ER+/HER2- Low Prolif,17.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.042,Positive,1,ER+/HER2- High Prolif,21.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,LumB,Positive,2.0,Negative,Lobular,0,Post,0.0,3.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Mixed,1,Post,0.0,4.034,Positive,1,ER+/HER2- High Prolif,17.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,7.0,5.07,Positive,0,ER+/HER2- High Prolif,35.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Positive,Ductal/NST,1,Post,3.0,5.056,Negative,1,HER2+,28.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Pre,0.0,3.05,Positive,0,ER+/HER2- High Prolif,25.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.034,Positive,1,ER+/HER2- Low Prolif,17.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Her2,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.07,Positive,0,ER+/HER2- High Prolif,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.05,Positive,0,ER+/HER2- High Prolif,25.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.024,Negative,1,ER+/HER2- Low Prolif,12.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Mixed,0,Post,0.0,2.03,Positive,0,ER+/HER2- High Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.026,Positive,1,ER+/HER2- High Prolif,13.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.036,Negative,1,ER+/HER2- High Prolif,18.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.026,Positive,1,ER+/HER2- High Prolif,13.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Low,0,Normal,Positive,1.0,Negative,Mixed,0,Post,0.0,2.044,Positive,1,ER+/HER2- Low Prolif,22.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,1.0,Negative,Mixed,0,Post,0.0,2.0380000000000003,Positive,0,ER+/HER2- Low Prolif,19.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.022,Negative,1,ER-/HER2-,11.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,2.0,Negative,Ductal/NST,0,Post,1.0,4.018,Negative,1,ER-/HER2-,9.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.054,Positive,0,ER+/HER2- High Prolif,27.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Lobular,0,Post,0.0,3.028,Negative,0,ER+/HER2- Low Prolif,14.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,1.0,5.053999999999999,Negative,1,ER-/HER2-,27.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.026,Negative,1,ER+/HER2- Low Prolif,13.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.038,Negative,0,HER2+,19.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Lobular,0,Post,0.0,3.028,Negative,0,ER+/HER2- Low Prolif,14.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,18.0,6.07,Negative,1,HER2+,35.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.03,Positive,0,ER+/HER2- Low Prolif,15.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.052,Negative,1,ER-/HER2-,26.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Mixed,1,Post,0.0,4.032,Positive,1,ER+/HER2- Low Prolif,16.0,1.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,0.0,3.044,Negative,0,ER+/HER2- Low Prolif,22.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.044,Negative,1,ER-/HER2-,22.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Mixed,1,Post,0.0,4.052,Positive,0,ER+/HER2- High Prolif,26.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Pre,2.0,3.04,Positive,0,ER+/HER2- Low Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,3.0,Positive,Ductal/NST,1,Post,0.0,4.03,Negative,0,HER2+,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.026,Negative,0,ER+/HER2- Low Prolif,13.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,0,Normal,Positive,2.0,Negative,Lobular,1,Post,9.0,5.05,Positive,0,ER+/HER2- Low Prolif,25.0,3.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,5.0,6.04,Negative,1,ER-/HER2-,20.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.06,Negative,1,ER-/HER2-,30.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Negative,Ductal/NST,0,Pre,8.0,6.05,Negative,1,ER+/HER2- High Prolif,25.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Positive,0,ER+/HER2- Low Prolif,15.0,1.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.036,Positive,1,ER+/HER2- High Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.06,Negative,1,ER-/HER2-,30.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Negative,0,ER+/HER2- Low Prolif,25.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,claudin-low,Negative,2.0,Negative,Mixed,1,Post,4.0,5.02,Negative,1,ER-/HER2-,10.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Positive,3.0,Negative,Ductal/NST,1,Post,7.0,6.06,Negative,1,HER2+,30.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.0360000000000005,Positive,1,ER+/HER2- High Prolif,18.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.026,Positive,1,ER+/HER2- Low Prolif,13.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Pre,2.0,4.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.03,Positive,1,ER+/HER2- Low Prolif,15.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Pre,0.0,2.03,Positive,0,ER+/HER2- Low Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Positive,Ductal/NST,1,Post,1.0,4.03,Positive,1,HER2+,15.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.04,Negative,1,HER2+,20.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumA,Positive,1.0,Negative,Mixed,0,Pre,0.0,2.03,Positive,0,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Positive,Ductal/NST,1,Pre,1.0,5.0360000000000005,Positive,1,HER2+,18.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.032,Positive,1,ER+/HER2- Low Prolif,16.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.024,Negative,0,ER+/HER2- High Prolif,12.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,1.0,4.06,Negative,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.0460000000000003,Positive,1,ER+/HER2- Low Prolif,23.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,6.0,5.04,Negative,1,ER-/HER2-,20.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.024,Positive,0,ER+/HER2- High Prolif,12.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Mixed,0,Post,0.0,2.024,Positive,1,ER+/HER2- Low Prolif,12.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,1.0,Negative,Ductal/NST,1,Post,1.0,3.0460000000000003,Negative,1,ER+/HER2- Low Prolif,23.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.03,Negative,1,ER-/HER2-,15.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.02,Positive,0,ER+/HER2- High Prolif,10.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Lobular,1,Post,1.0,5.044,Positive,1,ER+/HER2- High Prolif,22.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.026,Negative,1,HER2+,13.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.044,Negative,1,ER+/HER2- High Prolif,22.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.0380000000000003,Positive,0,ER+/HER2- Low Prolif,19.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.044,Negative,1,ER+/HER2- Low Prolif,22.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.026,Positive,1,ER+/HER2- Low Prolif,13.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.07,Negative,0,ER-/HER2-,35.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Lobular,0,Post,0.0,3.032,Positive,1,ER+/HER2- Low Prolif,16.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Negative,0,ER+/HER2- High Prolif,30.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,1.0,5.086,Negative,1,ER-/HER2-,43.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.08,Negative,1,ER-/HER2-,40.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.072,Negative,1,ER+/HER2- High Prolif,36.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,6.0,6.04,Negative,1,ER-/HER2-,20.0,3.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,1.0,Negative,Mixed,0,Pre,0.0,2.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Lobular,0,Pre,0.0,3.05,Positive,1,ER+/HER2- Low Prolif,25.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,3.0,Negative,Mixed,1,Post,2.0,5.0760000000000005,Positive,1,ER+/HER2- High Prolif,38.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.03,Negative,1,HER2+,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Positive,Ductal/NST,0,Pre,0.0,3.04,Negative,1,ER+/HER2- High Prolif,20.0,1.0,20-40
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,2.0,4.032,Negative,1,ER+/HER2- Low Prolif,16.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.024,Positive,0,ER+/HER2- Low Prolif,12.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.034,Negative,0,HER2+,17.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,4.0,6.044,Negative,1,ER-/HER2-,22.0,3.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Positive,3.0,Negative,Ductal/NST,0,Post,1.0,5.056,Negative,1,ER-/HER2-,28.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.032,Positive,1,ER+/HER2- High Prolif,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.026,Positive,0,ER+/HER2- Low Prolif,13.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.026,Negative,1,ER-/HER2-,13.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Mixed,0,Post,0.0,2.0340000000000003,Positive,0,ER+/HER2- Low Prolif,17.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.034,Positive,1,ER+/HER2- Low Prolif,17.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.034,Positive,1,ER+/HER2- High Prolif,17.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.052,Positive,1,ER+/HER2- High Prolif,26.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.036,Positive,1,ER+/HER2- Low Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumB,Positive,3.0,Negative,Mixed,1,Post,1.0,5.034,Positive,1,ER+/HER2- High Prolif,17.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,6.0,6.04,Positive,1,HER2+,20.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.056,Positive,0,ER+/HER2- High Prolif,28.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,3.0,5.06,Negative,1,ER-/HER2-,30.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.0360000000000005,Negative,0,ER-/HER2-,18.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Positive,0,ER+/HER2- Low Prolif,25.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.05,Negative,1,ER-/HER2-,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Positive,0,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.0380000000000003,Negative,0,ER+/HER2- High Prolif,19.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.07,Negative,1,ER+/HER2- Low Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.04,Negative,1,HER2+,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,1,Post,0.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.034,Positive,0,ER+/HER2- Low Prolif,17.0,1.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,4.0,6.053999999999999,Negative,1,HER2+,27.0,3.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,3.0,Negative,Mixed,1,Pre,0.0,4.05,Positive,1,ER+/HER2- High Prolif,25.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Pre,0.0,4.056,Positive,1,HER2+,28.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.032,Negative,1,HER2+,16.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.053999999999999,Positive,1,ER+/HER2- Low Prolif,27.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.046,Negative,0,ER-/HER2-,23.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Negative,1,ER+/HER2- High Prolif,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,0,Post,0.0,3.036,Positive,0,ER+/HER2- Low Prolif,18.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Positive,Lobular,1,Post,0.0,4.04,Positive,1,HER2+,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,3.0,5.07,Negative,1,HER2+,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,LumB,Positive,3.0,Negative,Lobular,1,Post,0.0,4.04,Negative,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.03,Negative,0,ER-/HER2-,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,3.0,5.05,Negative,1,ER-/HER2-,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,0,Pre,3.0,5.056,Positive,1,ER+/HER2- High Prolif,28.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.034,Positive,1,ER+/HER2- Low Prolif,17.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,7.0,6.0520000000000005,Negative,1,ER+/HER2- Low Prolif,26.0,3.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Lobular,1,Pre,1.0,4.052,Negative,0,ER+/HER2- Low Prolif,26.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.06,Negative,1,HER2+,30.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.042,Positive,1,ER+/HER2- High Prolif,21.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Pre,1.0,4.034,Positive,0,ER+/HER2- Low Prolif,17.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.034,Positive,1,ER+/HER2- Low Prolif,17.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Negative,0,ER+/HER2- Low Prolif,30.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,1.0,5.07,Negative,1,ER-/HER2-,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,2.0,4.032,Positive,1,ER+/HER2- Low Prolif,16.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,1,Her2,Negative,2.0,Positive,Mixed,0,Pre,6.0,5.07,Negative,1,HER2+,35.0,3.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.044,Positive,1,ER-/HER2-,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.053999999999999,Negative,1,ER+/HER2- High Prolif,27.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Positive,3.0,Positive,Ductal/NST,0,Pre,0.0,4.1,Negative,1,HER2+,50.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,5.0,6.062,Negative,1,HER2+,31.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.06,Negative,0,ER-/HER2-,30.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,3.0,5.053999999999999,Negative,1,ER-/HER2-,27.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,1.0,Negative,Mixed,1,Post,1.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,5.0,6.053999999999999,Negative,1,ER+/HER2- High Prolif,27.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.044,Negative,1,ER+/HER2- Low Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.042,Positive,1,ER+/HER2- Low Prolif,21.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.04,Positive,0,ER+/HER2- High Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Mixed,1,Post,0.0,4.05,Negative,1,ER-/HER2-,25.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,Her2,Positive,3.0,Negative,Mixed,1,Post,0.0,4.074,Negative,0,ER+/HER2- High Prolif,37.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.024,Positive,1,ER+/HER2- High Prolif,12.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.08,Negative,1,HER2+,40.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.0680000000000005,Positive,1,ER+/HER2- High Prolif,34.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.011,Negative,1,ER-/HER2-,5.5,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.0360000000000005,Negative,1,ER-/HER2-,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Negative,0,ER+/HER2- Low Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Pre,0.0,2.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Negative,0,ER+/HER2- High Prolif,25.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Pre,0.0,3.036,Positive,1,ER+/HER2- Low Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.044,Positive,1,ER+/HER2- High Prolif,22.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.046,Positive,1,ER+/HER2- High Prolif,23.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Negative,1,ER+/HER2- High Prolif,16.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.048,Negative,1,ER+/HER2- High Prolif,24.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Positive,Mixed,0,Post,0.0,3.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Positive,Ductal/NST,1,Pre,0.0,4.046,Positive,1,ER+/HER2- High Prolif,23.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,1.0,Negative,Mixed,0,Post,0.0,2.024,Positive,0,ER+/HER2- Low Prolif,12.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.024,Negative,1,HER2+,12.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.052,Positive,0,ER+/HER2- Low Prolif,26.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Negative,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.08,Negative,1,ER+/HER2- High Prolif,40.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,3.0,Negative,Mixed,1,Post,3.0,5.08,Negative,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,Her2,Positive,2.0,Negative,Mixed,0,Post,0.0,3.026,Positive,0,ER+/HER2- High Prolif,13.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,6.0,6.08,Negative,1,HER2+,40.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.046,Negative,1,ER+/HER2- Low Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,13.0,6.04,Negative,1,ER-/HER2-,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,Her2,Positive,3.0,Negative,Mixed,0,Post,0.0,4.086,Negative,0,ER+/HER2- High Prolif,43.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.02,Positive,1,ER+/HER2- Low Prolif,10.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.1,Negative,1,ER+/HER2- Low Prolif,50.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,5.0,5.06,Negative,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.0360000000000005,Negative,1,ER+/HER2- High Prolif,18.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.09,Negative,0,ER+/HER2- High Prolif,45.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,2.0,Positive,Ductal/NST,1,Post,1.0,4.07,Positive,1,HER2+,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.046,Negative,1,ER+/HER2- High Prolif,23.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.08,Positive,1,ER+/HER2- Low Prolif,40.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,Her2,Positive,1.0,Positive,Lobular,1,Post,0.0,2.04,Negative,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.06,Negative,1,ER+/HER2- Low Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,Her2,Positive,3.0,Negative,Mixed,0,Post,0.0,4.05,Negative,0,ER+/HER2- Low Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.02,Positive,1,ER+/HER2- High Prolif,10.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.03,Negative,1,ER+/HER2- Low Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.08,Positive,1,ER+/HER2- Low Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,2.0,Negative,Mixed,0,Pre,0.0,3.024,Positive,1,ER+/HER2- High Prolif,12.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,6.0,6.106,Negative,0,ER-/HER2-,53.0,3.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.1,Negative,1,ER-/HER2-,50.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,4.0,5.02,Negative,1,ER+/HER2- High Prolif,10.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,9.0,6.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,2.0,5.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,2.0,5.03,Positive,1,ER+/HER2- High Prolif,15.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.05,Negative,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.03,Positive,1,ER+/HER2- Low Prolif,15.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.07,Positive,1,ER+/HER2- High Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.03,Negative,0,HER2+,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.05,Negative,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.07,Negative,1,ER+/HER2- High Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.062,Positive,0,ER+/HER2- Low Prolif,31.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.032,Positive,0,ER+/HER2- High Prolif,16.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.08,Negative,1,HER2+,40.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.0360000000000005,Positive,0,ER+/HER2- Low Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,9.0,6.03,Negative,0,ER+/HER2- High Prolif,15.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,Her2,Negative,3.0,Negative,Lobular,0,Post,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Negative,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.04,Negative,0,ER+/HER2- High Prolif,20.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.08,Positive,0,ER+/HER2- Low Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.0360000000000005,Positive,1,ER+/HER2- Low Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Negative,0,ER-/HER2-,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,8.0,6.1,Negative,1,ER+/HER2- High Prolif,50.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.07,Negative,1,ER+/HER2- Low Prolif,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.04,Negative,0,ER+/HER2- High Prolif,20.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Positive,Ductal/NST,1,Post,9.0,5.09,Positive,1,HER2+,45.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.02,Negative,0,ER+/HER2- Low Prolif,10.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,0,Normal,Positive,2.0,Negative,Lobular,1,Post,2.0,4.1,Negative,0,ER+/HER2- Low Prolif,50.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Lobular,1,Post,1.0,5.04,Positive,0,ER+/HER2- Low Prolif,20.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.07,Negative,0,ER+/HER2- High Prolif,35.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,0,Post,0.0,4.098,Negative,0,ER+/HER2- Low Prolif,49.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.054,Positive,0,ER+/HER2- Low Prolif,27.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.053999999999999,Negative,1,ER-/HER2-,27.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Lobular,0,Post,0.0,4.0360000000000005,Negative,0,ER+/HER2- Low Prolif,18.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.038,Positive,0,ER+/HER2- Low Prolif,19.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Positive,Ductal/NST,0,Post,11.0,6.198,Negative,1,ER-/HER2-,99.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Normal,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.1,Negative,0,ER+/HER2- High Prolif,50.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,1.0,5.09,Negative,0,ER-/HER2-,45.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Lobular,0,Post,0.0,4.056,Positive,1,ER+/HER2- Low Prolif,28.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.05,Negative,0,ER-/HER2-,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,Normal,Positive,1.0,Negative,Lobular,1,Pre,0.0,2.198,Positive,1,ER+/HER2- Low Prolif,99.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,4.0,5.044,Positive,0,ER+/HER2- Low Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Lobular,1,Post,5.0,4.12,Negative,1,ER+/HER2- Low Prolif,60.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Negative,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.04,Negative,1,HER2+,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.052,Positive,0,HER2+,26.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Mixed,0,Post,0.0,4.136,Positive,0,ER+/HER2- Low Prolif,68.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,3.0,5.09,Negative,1,ER-/HER2-,45.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,4.0,6.0360000000000005,Negative,1,ER-/HER2-,18.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.08,Positive,0,ER+/HER2- Low Prolif,40.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.092,Negative,0,ER+/HER2- High Prolif,46.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,0,Normal,Positive,2.0,Negative,Mixed,0,Pre,0.0,3.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumB,Positive,2.0,Negative,Lobular,1,Post,1.0,4.04,Negative,0,ER+/HER2- Low Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Mixed,0,Post,0.0,3.03,Negative,0,ER+/HER2- Low Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,1.0,5.074,Negative,1,HER2+,37.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,0,Post,0.0,4.044,Positive,0,ER+/HER2- High Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.12,Negative,0,ER+/HER2- Low Prolif,60.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.06,Negative,1,HER2+,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Lobular,1,Post,0.0,4.1,Positive,1,ER+/HER2- Low Prolif,50.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.08,Positive,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.07,Negative,1,ER-/HER2-,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.026,Negative,0,ER-/HER2-,13.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.026,Positive,1,ER+/HER2- Low Prolif,13.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.056,Positive,1,ER+/HER2- Low Prolif,28.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.056,Negative,0,ER+/HER2- High Prolif,28.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.04,Negative,0,ER+/HER2- High Prolif,20.0,1.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.04,Negative,1,ER-/HER2-,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Positive,Ductal/NST,0,Post,0.0,3.05,Negative,0,HER2+,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,0.0,3.04,Negative,1,ER+/HER2- High Prolif,20.0,1.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,7.0,6.07,Positive,1,ER+/HER2- High Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.08,Negative,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Pre,0.0,4.07,Positive,0,ER+/HER2- High Prolif,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,1.0,4.02,Positive,0,ER+/HER2- Low Prolif,10.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.0280000000000005,Negative,0,ER-/HER2-,14.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.1,Positive,0,ER+/HER2- Low Prolif,50.0,2.0,20-40
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,2.0,Negative,Mixed,1,Post,1.0,4.114,Negative,1,ER+/HER2- Low Prolif,57.0,3.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.02,Positive,0,ER+/HER2- Low Prolif,10.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.02,Positive,0,ER+/HER2- Low Prolif,10.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumB,Positive,3.0,Negative,Lobular,1,Post,2.0,5.16,Negative,1,ER-/HER2-,80.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Pre,0.0,2.022,Positive,1,ER+/HER2- Low Prolif,11.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Low,0,LumB,Positive,2.0,Positive,Lobular,1,Post,0.0,3.05,Positive,1,HER2+,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Negative,0,ER+/HER2- High Prolif,30.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.034,Negative,1,ER-/HER2-,17.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Low,0,LumA,Positive,2.0,Negative,Lobular,0,Pre,0.0,3.02,Positive,1,ER+/HER2- Low Prolif,10.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.046,Positive,1,ER+/HER2- High Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.07,Negative,0,ER-/HER2-,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Pre,0.0,2.04,Positive,0,HER2+,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.06,Positive,0,ER+/HER2- Low Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Normal,Negative,2.0,Positive,Ductal/NST,0,Post,0.0,3.08,Negative,0,HER2+,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Low,0,claudin-low,Positive,2.0,Negative,Lobular,0,Pre,0.0,3.056,Negative,1,ER-/HER2-,28.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Positive,Ductal/NST,0,Post,0.0,3.05,Negative,0,HER2+,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,0.0,4.0360000000000005,Negative,1,HER2+,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.053999999999999,Negative,0,ER-/HER2-,27.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.014,Positive,0,ER+/HER2- Low Prolif,7.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.09,Negative,0,HER2+,45.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.066,Negative,0,ER+/HER2- Low Prolif,33.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.032,Negative,1,ER-/HER2-,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,3.0,5.04,Negative,0,ER-/HER2-,20.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.07,Positive,0,ER+/HER2- High Prolif,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Basal,Negative,3.0,Positive,Ductal/NST,0,Pre,0.0,4.06,Negative,0,HER2+,30.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,0,Normal,Positive,1.0,Negative,Mixed,0,Pre,0.0,2.002,Positive,0,ER+/HER2- Low Prolif,1.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.036,Negative,0,ER+/HER2- High Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,2.0,3.052,Positive,0,ER+/HER2- High Prolif,26.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,3.0,5.08,Positive,1,HER2+,40.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.03,Negative,1,ER-/HER2-,15.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.056,Positive,1,ER+/HER2- High Prolif,28.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,6.0,6.0520000000000005,Negative,1,HER2+,26.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,2.0,5.06,Negative,1,HER2+,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.06,Negative,0,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,4.0,5.056,Positive,1,ER+/HER2- High Prolif,28.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Pre,3.0,5.046,Negative,0,HER2+,23.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,2.0,Negative,Ductal/NST,0,Pre,1.0,4.05,Negative,1,ER-/HER2-,25.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.053999999999999,Negative,1,ER-/HER2-,27.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.036,Positive,1,ER+/HER2- High Prolif,18.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,12.0,6.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.042,Negative,1,HER2+,21.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,4.0,6.12,Negative,1,ER+/HER2- High Prolif,60.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,0.0,2.026,Positive,0,ER+/HER2- Low Prolif,13.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,1.0,Negative,Mixed,1,Post,6.0,4.1,Positive,0,ER+/HER2- Low Prolif,50.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.03,Positive,1,ER+/HER2- Low Prolif,15.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Lobular,1,Post,5.0,5.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.0360000000000005,Negative,1,ER-/HER2-,18.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.1,Negative,1,ER+/HER2- High Prolif,50.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Negative,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.08,Negative,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Negative,2.0,Negative,Lobular,0,Post,0.0,3.0660000000000003,Negative,0,ER+/HER2- Low Prolif,33.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Negative,Ductal/NST,0,Pre,4.0,6.1,Negative,1,ER-/HER2-,50.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.044,Positive,1,ER+/HER2- High Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,1.0,3.036,Positive,0,ER+/HER2- Low Prolif,18.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumB,Positive,3.0,Negative,Lobular,1,Post,6.0,6.064,Negative,0,ER+/HER2- High Prolif,32.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.042,Negative,0,ER+/HER2- High Prolif,21.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Positive,3.0,Negative,Ductal/NST,0,Pre,2.0,5.074,Negative,1,ER+/HER2- Low Prolif,37.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,2.0,5.12,Negative,1,ER-/HER2-,60.0,3.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.0460000000000003,Positive,1,ER+/HER2- Low Prolif,23.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.044,Positive,1,ER+/HER2- Low Prolif,22.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,3.0,Negative,Ductal/NST,1,Post,6.0,6.028,Negative,1,ER+/HER2- High Prolif,14.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.024,Positive,1,HER2+,12.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,4.0,6.034,Positive,1,ER+/HER2- Low Prolif,17.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,0,Pre,0.0,4.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Mixed,0,Post,0.0,4.11,Positive,0,ER+/HER2- High Prolif,55.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.11,Negative,1,ER+/HER2- High Prolif,55.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.08,Negative,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,6.0,6.08,Positive,1,ER+/HER2- Low Prolif,40.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.034,Negative,1,ER+/HER2- High Prolif,17.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.032,Positive,1,ER+/HER2- High Prolif,16.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,0,Post,0.0,3.034,Positive,0,ER+/HER2- High Prolif,17.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,2.0,5.07,Negative,0,ER-/HER2-,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Basal,Negative,3.0,Positive,Ductal/NST,0,Post,0.0,4.002,Negative,0,HER2+,1.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.03,Negative,0,ER-/HER2-,15.0,1.0,20-40
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,1,Normal,Negative,3.0,Negative,Mixed,1,Post,16.0,6.03,Negative,1,ER-/HER2-,15.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.034,Positive,0,ER+/HER2- Low Prolif,17.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.05,Negative,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.04,Negative,1,HER2+,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.04,Negative,1,HER2+,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Mixed,0,Post,0.0,4.032,Negative,0,ER-/HER2-,16.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,1.0,5.06,Negative,0,ER-/HER2-,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Lobular,1,Post,0.0,4.05,Negative,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Positive,Ductal/NST,1,Post,1.0,4.048,Negative,1,HER2+,24.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.04,Negative,0,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.06,Negative,0,ER+/HER2- Low Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.04,Positive,0,ER+/HER2- Low Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.06,Negative,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.044,Positive,0,ER+/HER2- High Prolif,22.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Pre,17.0,6.04,Negative,1,ER-/HER2-,20.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,14.0,5.1,Positive,1,ER+/HER2- High Prolif,50.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.022,Positive,1,ER+/HER2- High Prolif,11.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.082,Positive,1,ER+/HER2- High Prolif,41.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.034,Negative,1,ER+/HER2- Low Prolif,17.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.06,Negative,1,ER-/HER2-,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,7.0,5.0360000000000005,Positive,1,ER+/HER2- High Prolif,18.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.024,Positive,1,ER+/HER2- Low Prolif,12.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Negative,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.06,Negative,1,HER2+,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.04,Negative,0,ER+/HER2- Low Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.052,Positive,0,ER+/HER2- High Prolif,26.0,3.0,80-100
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumB,Positive,3.0,Negative,Mixed,0,Post,0.0,4.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.02,Positive,1,ER+/HER2- Low Prolif,10.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,4.0,6.058,Negative,1,ER+/HER2- High Prolif,29.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.034,Positive,1,ER+/HER2- High Prolif,17.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,Normal,Negative,3.0,Negative,Mixed,1,Post,0.0,4.05,Negative,1,ER-/HER2-,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,LumA,Positive,3.0,Positive,Lobular,1,Post,0.0,4.05,Negative,0,HER2+,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,0,Normal,Positive,2.0,Negative,Lobular,0,Post,0.0,3.002,Positive,0,ER+/HER2- Low Prolif,1.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.034,Positive,0,ER+/HER2- High Prolif,17.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Normal,Negative,3.0,Positive,Ductal/NST,0,Pre,0.0,4.002,Negative,0,ER-/HER2-,1.0,1.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Negative,0,ER-/HER2-,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.0360000000000005,Negative,1,ER+/HER2- Low Prolif,18.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,3.0,Positive,Ductal/NST,0,Pre,0.0,4.026,Positive,1,HER2+,13.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,11.0,6.06,Positive,1,HER2+,30.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.022,Positive,1,ER+/HER2- Low Prolif,11.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Pre,7.0,6.08,Negative,1,HER2+,40.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.1,Negative,0,ER-/HER2-,50.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,0,Normal,Positive,3.0,Negative,Lobular,1,Post,0.0,4.04,Negative,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,0.0,4.03,Negative,0,ER+/HER2- Low Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Lobular,0,Post,0.0,3.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.07,Positive,0,ER+/HER2- Low Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Negative,0,ER-/HER2-,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,9.0,6.1,Positive,0,ER+/HER2- Low Prolif,50.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,1,Post,1.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.03,Positive,1,HER2+,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Negative,0,ER+/HER2- High Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.05,Negative,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Basal,Negative,3.0,Positive,Ductal/NST,1,Post,0.0,4.03,Negative,0,HER2+,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.03,Negative,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Positive,3.0,Negative,Ductal/NST,1,Post,3.0,5.07,Negative,1,ER-/HER2-,35.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.03,Negative,0,ER+/HER2- Low Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.053999999999999,Negative,0,ER-/HER2-,27.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.12,Negative,1,ER-/HER2-,60.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.07,Negative,0,HER2+,35.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Negative,Ductal/NST,1,Post,12.0,6.05,Negative,1,HER2+,25.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.02,Negative,1,ER+/HER2- High Prolif,10.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.04,Positive,0,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.03,Negative,1,ER-/HER2-,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,2.0,Negative,Ductal/NST,0,Pre,2.0,4.044,Negative,1,ER-/HER2-,22.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.04,Positive,0,ER+/HER2- Low Prolif,20.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Negative,1,ER-/HER2-,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Negative,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.03,Positive,0,ER+/HER2- High Prolif,15.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.05,Negative,0,HER2+,25.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.028,Negative,1,ER-/HER2-,14.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.06,Positive,1,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.012,Negative,1,ER-/HER2-,6.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,3.0,5.13,Negative,1,ER-/HER2-,65.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Normal,Positive,3.0,Positive,Ductal/NST,0,Pre,2.0,5.04,Negative,1,HER2+,20.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,2.0,Negative,Mixed,0,Post,0.0,3.03,Positive,0,ER+/HER2- High Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.024,Positive,1,ER+/HER2- Low Prolif,12.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.08,Positive,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.06,Positive,0,ER+/HER2- Low Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.046,Positive,1,ER+/HER2- High Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Negative,0,ER-/HER2-,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.07,Negative,1,HER2+,35.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Mixed,0,Post,0.0,4.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.0360000000000005,Positive,1,ER+/HER2- Low Prolif,18.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,0.0,4.06,Negative,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Pre,0.0,3.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Mixed,1,Post,1.0,5.07,Positive,0,ER+/HER2- High Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.08,Negative,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Negative,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,5.0,6.08,Positive,1,ER+/HER2- Low Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.07,Negative,1,ER+/HER2- High Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.044,Positive,0,ER+/HER2- Low Prolif,22.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,1,Pre,14.0,6.198,Positive,1,ER-/HER2-,99.0,3.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Basal,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.05,Negative,1,ER-/HER2-,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Positive,Ductal/NST,1,Post,6.0,6.08,Negative,1,HER2+,40.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,1,Basal,Negative,3.0,Negative,Lobular,0,Pre,5.0,6.046,Negative,0,ER-/HER2-,23.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,1,Basal,Negative,3.0,Negative,Lobular,1,Post,2.0,5.08,Negative,0,ER-/HER2-,40.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,1.0,4.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Negative,0,ER+/HER2- High Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.06,Negative,0,ER+/HER2- Low Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.054,Positive,1,ER-/HER2-,27.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,6.0,6.12,Negative,0,HER2+,60.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,16.0,6.16,Negative,1,HER2+,80.0,3.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,2.0,Negative,Mixed,1,Post,1.0,4.03,Positive,1,ER+/HER2- High Prolif,15.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.0360000000000005,Negative,1,HER2+,18.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,1.0,4.046,Negative,1,ER+/HER2- High Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.03,Negative,0,ER-/HER2-,15.0,1.0,20-40
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.02,Positive,0,ER+/HER2- Low Prolif,10.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,0,Her2,Negative,2.0,Positive,Lobular,1,Post,0.0,3.05,Negative,1,HER2+,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.1,Negative,0,ER+/HER2- High Prolif,50.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,1,LumA,Positive,3.0,Negative,Lobular,0,Post,13.0,6.13,Negative,1,ER+/HER2- Low Prolif,65.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Positive,Ductal/NST,0,Post,0.0,3.0460000000000003,Negative,0,HER2+,23.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,2.0,Positive,Ductal/NST,1,Post,1.0,4.0360000000000005,Positive,0,ER+/HER2- High Prolif,18.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.053999999999999,Negative,0,ER-/HER2-,27.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.04,Negative,1,ER+/HER2- High Prolif,20.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Positive,1.0,Negative,Ductal/NST,1,Post,4.0,4.03,Positive,1,ER+/HER2- Low Prolif,15.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.03,Negative,0,ER-/HER2-,15.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,claudin-low,Positive,3.0,Negative,Mixed,1,Post,1.0,5.05,Negative,1,ER-/HER2-,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Negative,3.0,Positive,Ductal/NST,0,Pre,0.0,4.004,Negative,0,HER2+,2.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,3.0,4.114,Negative,1,ER+/HER2- Low Prolif,57.0,3.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.14,Negative,1,ER+/HER2- Low Prolif,70.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.08,Positive,0,ER+/HER2- High Prolif,40.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,Her2,Positive,3.0,Negative,Lobular,1,Post,1.0,5.08,Negative,0,HER2+,40.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.044,Positive,1,ER+/HER2- High Prolif,22.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Negative,1,ER+/HER2- Low Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,LumB,Positive,3.0,Negative,Ductal/NST,1,Pre,7.0,6.09,Positive,1,ER+/HER2- Low Prolif,45.0,2.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Basal,Positive,3.0,Negative,Ductal/NST,0,Post,3.0,5.09,Negative,1,ER-/HER2-,45.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Pre,2.0,5.1,Negative,1,HER2+,50.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,4.0,5.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.062,Positive,1,ER+/HER2- High Prolif,31.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,High,1,Basal,Negative,3.0,Negative,Lobular,1,Pre,12.0,6.026,Negative,1,ER-/HER2-,13.0,3.0,20-40
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Lobular,1,Post,0.0,4.0280000000000005,Negative,0,ER-/HER2-,14.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,0,Post,0.0,3.044,Positive,0,ER+/HER2- Low Prolif,22.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.0280000000000005,Positive,1,ER+/HER2- Low Prolif,14.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.0280000000000005,Negative,1,ER+/HER2- High Prolif,14.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,4.0,5.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.024,Positive,0,ER+/HER2- Low Prolif,12.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Positive,0,ER+/HER2- High Prolif,16.0,1.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,10.0,5.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.07,Positive,0,ER+/HER2- High Prolif,35.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.002,Positive,1,ER+/HER2- Low Prolif,1.0,1.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Negative,1,ER-/HER2-,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,5.0,6.044,Negative,1,HER2+,22.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.0360000000000005,Negative,0,HER2+,18.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.028,Positive,1,ER+/HER2- Low Prolif,14.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.05,Negative,1,HER2+,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Pre,4.0,6.12,Negative,1,HER2+,60.0,3.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.05,Positive,0,HER2+,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Basal,Positive,3.0,Positive,Ductal/NST,0,Post,0.0,4.04,Negative,1,HER2+,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Pre,0.0,2.064,Positive,0,ER+/HER2- Low Prolif,32.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Post,0.0,3.026,Positive,0,ER+/HER2- Low Prolif,13.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.08,Positive,0,ER+/HER2- Low Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Positive,Ductal/NST,1,Post,11.0,6.05,Positive,1,HER2+,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,2.0,Negative,Ductal/NST,1,Post,0.0,3.05,Negative,1,ER-/HER2-,25.0,2.0,80-100
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Low,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Negative,0,ER+/HER2- Low Prolif,20.0,1.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Positive,1,ER-/HER2-,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.044,Positive,1,ER+/HER2- High Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.11,Positive,0,ER+/HER2- High Prolif,55.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.0360000000000005,Negative,1,ER-/HER2-,18.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Negative,3.0,Positive,Ductal/NST,1,Post,0.0,4.07,Negative,0,ER+/HER2- Low Prolif,35.0,3.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.07,Positive,1,ER-/HER2-,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,3.0,Negative,Ductal/NST,1,Post,1.0,5.05,Negative,1,ER-/HER2-,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.024,Negative,1,ER-/HER2-,12.0,1.0,20-40
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,0,Pre,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,1,Normal,Negative,3.0,Negative,Ductal/NST,0,Pre,3.0,5.06,Positive,1,ER-/HER2-,30.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,4.0,6.06,Negative,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,2.0,4.02,Negative,0,ER+/HER2- Low Prolif,10.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.032,Positive,0,ER+/HER2- Low Prolif,16.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Positive,Ductal/NST,0,Post,1.0,5.05,Negative,0,HER2+,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Positive,Ductal/NST,1,Post,1.0,5.04,Negative,1,HER2+,20.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Negative,1,ER-/HER2-,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.05,Negative,1,ER-/HER2-,25.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.026,Negative,0,ER+/HER2- High Prolif,13.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,5.0,6.07,Positive,1,ER+/HER2- Low Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.07,Negative,0,HER2+,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,3.0,4.046,Positive,0,ER+/HER2- Low Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,21.0,6.04,Negative,1,ER+/HER2- Low Prolif,20.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.06,Negative,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Positive,3.0,Negative,Ductal/NST,0,Pre,2.0,5.032,Negative,1,ER-/HER2-,16.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,2.0,Positive,Ductal/NST,0,Pre,6.0,5.05,Negative,1,HER2+,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Lobular,1,Pre,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.06,Negative,1,ER+/HER2- High Prolif,30.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Positive,0,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.08,Positive,0,ER+/HER2- Low Prolif,40.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.13,Positive,0,ER+/HER2- High Prolif,65.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Her2,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.03,Negative,1,HER2+,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.056,Positive,1,ER+/HER2- High Prolif,28.0,2.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,0,Post,0.0,3.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.04,Positive,0,ER-/HER2-,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Basal,Positive,2.0,Negative,Ductal/NST,1,Post,4.0,5.058,Positive,0,ER+/HER2- High Prolif,29.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,1.0,5.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,3.0,Negative,Mixed,1,Pre,4.0,6.05,Negative,0,ER+/HER2- High Prolif,25.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.09,Negative,1,ER+/HER2- High Prolif,45.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,0.0,4.04,Negative,1,ER-/HER2-,20.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,2.0,5.07,Negative,1,ER-/HER2-,35.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Basal,Positive,3.0,Negative,Ductal/NST,1,Post,2.0,5.05,Positive,0,ER+/HER2- High Prolif,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,claudin-low,Negative,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Negative,1,ER-/HER2-,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.06,Negative,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Low,0,Normal,Positive,3.0,Negative,Mixed,1,Post,1.0,5.04,Positive,1,ER+/HER2- Low Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Positive,2.0,Negative,Ductal/NST,1,Post,10.0,5.05,Negative,1,ER-/HER2-,25.0,3.0,80-100
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,1,Pre,4.0,6.044,Negative,1,HER2+,22.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.08,Positive,0,ER+/HER2- Low Prolif,40.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Basal,Negative,3.0,Negative,Ductal/NST,0,Pre,1.0,5.06,Negative,1,ER-/HER2-,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,Her2,Negative,2.0,Positive,Ductal/NST,0,Post,2.0,4.04,Negative,1,ER-/HER2-,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.052,Positive,0,ER+/HER2- High Prolif,26.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.053999999999999,Negative,1,ER-/HER2-,27.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.06,Positive,0,ER+/HER2- High Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Lobular,1,Post,0.0,2.052,Positive,1,ER+/HER2- High Prolif,26.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Negative,1,ER+/HER2- High Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,1,Basal,Negative,3.0,Positive,Ductal/NST,0,Pre,1.0,5.15,Positive,0,HER2+,75.0,3.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Basal,Negative,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Negative,1,ER-/HER2-,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.03,Positive,1,ER+/HER2- High Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Low,0,LumA,Positive,2.0,Negative,Lobular,0,Post,0.0,3.03,Negative,0,ER+/HER2- Low Prolif,15.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,1,claudin-low,Negative,3.0,Negative,Ductal/NST,1,Post,2.0,5.06,Positive,1,ER-/HER2-,30.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Mixed,1,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,40-60
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Mixed,1,Post,0.0,4.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,claudin-low,Negative,3.0,Negative,Lobular,1,Post,8.0,6.12,Negative,0,ER+/HER2- High Prolif,60.0,3.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumA,Positive,3.0,Negative,Mixed,1,Post,4.0,6.06,Positive,1,ER+/HER2- Low Prolif,30.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.05,Positive,0,ER+/HER2- Low Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Positive,1,ER+/HER2- Low Prolif,16.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Her2,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.04,Negative,0,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,claudin-low,Positive,3.0,Negative,Mixed,1,Post,2.0,5.0360000000000005,Negative,0,ER-/HER2-,18.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.052,Positive,0,ER+/HER2- High Prolif,26.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.06,Positive,0,ER+/HER2- Low Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.05,Positive,1,ER+/HER2- High Prolif,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.1,Positive,0,ER+/HER2- High Prolif,50.0,3.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Post,0.0,4.034,Positive,1,ER+/HER2- Low Prolif,17.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Pre,4.0,6.04,Negative,1,ER-/HER2-,20.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.064,Positive,1,ER+/HER2- Low Prolif,32.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.046,Positive,1,ER+/HER2- High Prolif,23.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.04,Positive,0,ER+/HER2- High Prolif,20.0,1.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,5.0,5.04,Negative,1,ER+/HER2- Low Prolif,20.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,1,Post,4.0,5.07,Negative,1,ER+/HER2- High Prolif,35.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,7.0,6.06,Negative,1,ER-/HER2-,30.0,3.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.06,Negative,0,ER-/HER2-,30.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.03,Negative,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Positive,1,ER+/HER2- High Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.002,Positive,0,ER+/HER2- Low Prolif,1.0,1.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.044,Positive,1,ER+/HER2- High Prolif,22.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Moderate,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,1.0,4.0680000000000005,Positive,1,ER+/HER2- Low Prolif,34.0,3.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Post,0.0,3.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Mixed,1,Post,0.0,4.06,Negative,1,ER+/HER2- High Prolif,30.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,1,Post,11.0,6.07,Negative,1,ER+/HER2- High Prolif,35.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,1,claudin-low,Negative,3.0,Negative,Mixed,1,Post,1.0,5.052,Negative,1,ER-/HER2-,26.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,Normal,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.03,Negative,1,ER-/HER2-,15.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Negative,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,1,Post,0.0,4.05,Negative,0,ER-/HER2-,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,Low,0,Normal,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Positive,0,ER+/HER2- Low Prolif,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Lobular Carcinoma,Moderate,0,LumA,Positive,1.0,Negative,Lobular,1,Post,0.0,2.032,Positive,0,ER+/HER2- Low Prolif,16.0,1.0,80-100
+MASTECTOMY,Breast Invasive Lobular Carcinoma,High,0,Her2,Positive,2.0,Negative,Lobular,1,Post,0.0,3.05,Negative,0,ER+/HER2- High Prolif,25.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,1,Pre,0.0,3.036,Positive,0,ER+/HER2- Low Prolif,18.0,1.0,20-40
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Positive,2.0,Positive,Ductal/NST,0,Pre,2.0,4.04,Negative,0,HER2+,20.0,2.0,20-40
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Low,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Pre,0.0,3.03,Positive,1,ER+/HER2- Low Prolif,15.0,1.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,3.0,Negative,Mixed,1,Post,4.0,6.074,Negative,0,ER+/HER2- Low Prolif,37.0,2.0,80-100
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,Moderate,0,claudin-low,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.092,Negative,1,ER-/HER2-,46.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.036,Positive,0,ER+/HER2- High Prolif,18.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,Moderate,0,LumB,Positive,2.0,Negative,Mixed,1,Post,0.0,3.084,Positive,1,ER+/HER2- High Prolif,42.0,2.0,40-60
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,1,Normal,Negative,2.0,Negative,Mixed,0,Pre,9.0,5.05,Positive,1,ER+/HER2- Low Prolif,25.0,2.0,40-60
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,LumB,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.02,Positive,1,ER+/HER2- High Prolif,10.0,1.0,60-80
+BREAST CONSERVING,Breast Invasive Ductal Carcinoma,High,0,Normal,Positive,2.0,Negative,Ductal/NST,1,Post,2.0,4.04,Negative,1,ER+/HER2- High Prolif,20.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,3.0,Negative,Ductal/NST,0,Pre,0.0,4.044,Negative,0,ER+/HER2- Low Prolif,22.0,2.0,40-60
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,1,Her2,Negative,3.0,Positive,Ductal/NST,0,Post,31.0,6.02,Positive,1,ER-/HER2-,10.0,2.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,2.0,Negative,Ductal/NST,0,Post,0.0,3.032,Positive,0,ER+/HER2- Low Prolif,16.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,LumA,Positive,1.0,Negative,Ductal/NST,0,Post,0.0,2.03,Positive,0,ER+/HER2- Low Prolif,15.0,1.0,60-80
+MASTECTOMY,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumA,Positive,2.0,Negative,Mixed,1,Post,4.0,5.06,Positive,0,ER+/HER2- Low Prolif,30.0,2.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,0,LumB,Positive,1.0,Negative,Mixed,0,Post,0.0,2.04,Positive,1,ER+/HER2- Low Prolif,20.0,1.0,60-80
+MASTECTOMY,Breast Invasive Ductal Carcinoma,High,0,Basal,Negative,3.0,Negative,Ductal/NST,0,Post,0.0,4.04,Negative,0,ER-/HER2-,20.0,1.0,60-80
+BREAST CONSERVING,Breast Mixed Ductal and Lobular Carcinoma,High,1,Normal,Positive,2.0,Negative,Mixed,0,Post,6.0,5.04,Positive,1,ER+/HER2- High Prolif,20.0,2.0,40-60

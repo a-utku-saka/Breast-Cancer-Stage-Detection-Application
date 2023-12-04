@@ -1,0 +1,73 @@
+/* Styling for the students section */
+.students {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.students h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.students ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.students li {
+    text-align: center;
+    margin: 10px;
+    width: 200px;
+}
+
+.students img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.students p {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+
+/* Styling for the supervisor section */
+.supervisor {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.supervisor h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.supervisor ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.supervisor li {
+    text-align: center;
+    margin: 10px;
+    width: 200px;
+}
+
+.supervisor img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.supervisor p {
+    font-size: 14px;
+    margin-bottom: 5px;
+}

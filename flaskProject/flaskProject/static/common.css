@@ -1,0 +1,90 @@
+
+.topic {
+    font-weight: bold;
+}
+
+/* Add this to your style.css file */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 10px;
+}
+
+nav li a:hover {
+    background-color: #fff;
+    color: #333;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 80px;
+    text-align: center;
+    font-size: 3em;
+    color: #333;
+}
+
+p {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 1.2em;
+    color: #666;
+}
+
+input, label {
+    margin-left: 32px;
+}
+
+.button {
+    margin-bottom: 32px;
+}
+
+section#challenges {
+    margin-top: 20px; /* Adjust the margin value as needed */
+    padding-top: 30px; /* Adjust the padding value as needed */
+}
+
+section#challenges h2 {
+    margin-top: 0; /* Reset the margin to remove extra space */
+}
+
+section#challenges h2, section#lessons-learned h2 {
+    text-align: center;
+}
+
+/*.main-header__item a:visited {*/
+/*    background-color: white;*/
+/*    color: black;*/
+/*}*/
+
+
